@@ -1,2 +1,6 @@
-genai
 streamlit
+requests
+PyPDF2
+speechrecognition
+fpdf
+pillow
